@@ -1,4 +1,4 @@
-### Good afternoon, good evening, and goodnight! 🌟🌟🌟 
+### Good afternoon, good evening, and good night! 🌟🌟🌟 
 
 For those of you who don't know me (yet), my name is Anna.
 I am happy to welcome you on my github page.
