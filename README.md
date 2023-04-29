@@ -3,7 +3,7 @@
 For those of you who don't know me (yet), my name is Anna.
 I am happy to welcome you on my github page.
 
-I have been working as a QA Engineer for 2.5 years, and currently I am very into QA automation and everything around it. 
+I have been working as a QA Engineer for more than 3 years, and currently I am very into QA automation and everything around it. 
 
 I also enjoy reading good books, teaching and learning English, travelling, and good long walks.
 
