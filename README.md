@@ -7,8 +7,6 @@ I have been working as a QA Engineer for more than 3 years, and currently I am v
 
 I also enjoy reading good books, teaching and learning English, travelling, and good long walks.
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashivrina)](https://github.com/ashivrina/github-readme-stats)
-
 
 <!--
 **ashivrina/ashivrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
