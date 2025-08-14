@@ -3,10 +3,11 @@
 For those of you who don't know me (yet), my name is Anna.
 I am happy to welcome you on my github page.
 
-I have been working as a QA Engineer for more than 5 years, and currently I am very into QA automation and everything around it. 
-Also, I am thrilled with opportunities generative AI provides us with, so I am learning everything I can about this topic.
+🔭 I have been working in Quality Assurance for more than 7 years. 
+🤖 Now I am a QA Automation Engineer. 
+🌱 Also, I am thrilled with opportunities generative AI provides us with, so I am learning everything I can about this topic.
 
-I also enjoy reading good books, teaching and learning English, travelling, and good long walks.
+I also enjoy reading good books, cooking, teaching and learning English, travelling, and good long walks.
 
 
 <!--
